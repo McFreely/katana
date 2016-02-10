@@ -1,0 +1,6 @@
+[package]
+name = "katana"
+version = "0.1.0"
+authors = ["McFreely <paulmcfreely@gmail.com>"]
+
+[dependencies]
