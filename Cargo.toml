@@ -1,6 +1,8 @@
 [package]
 name = "katana"
+description = "A fast and accurate rule-based sentence segmentation tool for Rust. A port from Louie Mullie's Scalpel."
 version = "0.1.0"
 authors = ["McFreely <paulmcfreely@gmail.com>"]
 
 [dependencies]
+regex = "0.1.8"
