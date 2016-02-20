@@ -83,8 +83,6 @@ pub fn cut(origin_text: &String) -> Vec<String> {
         final_vec.push(String::from(ss[ss.len()-1]));
     }
 
-    println!("{:#?}", final_vec);
-
     // Repair the damage we've done.
 
     // Prepare the Regexes for quote repair

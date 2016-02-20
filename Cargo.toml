@@ -1,7 +1,7 @@
 [package]
 name = "katana"
 description = "A fast and accurate rule-based sentence segmentation tool for Rust. A port from Louie Mullie's Scalpel."
-version = "1.0.1"
+version = "1.0.2"
 authors = ["McFreely <paulmcfreely@gmail.com>"]
 license = "MIT"
 repository = "https://github.com/McFreely/katana"
